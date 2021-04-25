@@ -24,9 +24,6 @@ events:
   - eclipse-ide
   - processing-ide 
   - learntomod
-<<<<<<< HEAD
   - objective-c
-=======
->>>>>>> 26a74ab442faa5dfc0d22abd61a9b0c17561381c
   - python
 ---
