@@ -1,5 +1,5 @@
 ---
-author: epidrome
+author: p18mant
 title: Guido van Rossum 
 image_url: /images/guido-van-rossum.jpg
 
