@@ -23,7 +23,6 @@ events:
   - squeakos
   - eclipse-ide
   - processing-ide 
-  - learntomod
-  - objective-c
+  - learntomon
   - python
 ---
