@@ -1,18 +1,14 @@
 ---
-author: epidrome
-title: "Alan Kay"
-image_url: /images/alan-kay.jpg
+author: p18mant
+title: "Guido van Rossum"
+image_url: /images/guido-van-rossum.jpg
 caption: "O Alan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
 categories:
   - Βιογραφία 
-  - Ορισμός 
+  - Μορφές 
 tags:
-  - Alan Kay
-  - Ivan Sutherland
-  - Bret Victor
-  - Dynabook
-  - Smalltalk
-  - Xerox Alto
+  - Guido van Rossum
+  - Python
 ---
 
 {% include_relative bio-kay.md %}
