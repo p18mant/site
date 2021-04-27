@@ -24,6 +24,6 @@ events:
   - eclipse-ide
   - processing-ide 
   - learntomod
-  - Programming with Objective C
+  - objective-C
   - python
 ---
