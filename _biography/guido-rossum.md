@@ -9,7 +9,7 @@ categories:
 tags:
   - Guido van Rossum
   - Python
----
+ ---
 
-{% include_relative bio-kay.md %}
+{% include_relative bio-rossum.md %}
 
