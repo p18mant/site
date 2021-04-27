@@ -25,6 +25,7 @@ events:
   - www
   - digital-desk
   - windows95
+  - objective-c
   - lifestreams
 ---
 
